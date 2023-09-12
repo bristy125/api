@@ -1,0 +1,7 @@
+npm init 
+npm install express mysql 
+npm i espress 
+npm i body-parser   
+npm start
+http://localhost:3001/pets
+http://localhost:3001/admin
